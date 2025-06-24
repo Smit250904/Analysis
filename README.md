@@ -77,7 +77,7 @@ To determine how market sentiment (Fear, Greed, etc.) affects:
 
 **Smit Swapnil Patel**  
 Junior Data Scientist Candidate  
-📧 smitsmit587@gmail.comm 
+📧 smitsmit587@gmail.com
 🔗 www.linkedin.com/in/smit2509 | 🌐 https://github.com/Smit250904/
 
 ---
